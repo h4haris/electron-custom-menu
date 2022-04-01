@@ -1,4 +1,4 @@
-# Electron Hello World
+# Electron Custom Menu
 
 Electron App Demo with Customized Menu Buttons.
 
